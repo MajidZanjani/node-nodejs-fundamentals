@@ -1,3 +1,6 @@
+// Please use the hex color code inside qoutes.
+// Some CLIs consider anything after hash sign as comment.
+
 const progress = () => {
   const args = process.argv.slice(2);
 
